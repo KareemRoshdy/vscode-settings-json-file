@@ -1,0 +1,85 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Monokai++",
+
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": true,
+  "workbench.startupEditor": "none",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.fontLigatures": "'ss02', 'ss19'",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeLensFontFamily": "Fira Code",
+  "editor.fontFamily": "Fira Code, monospace",
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "Hack Nerd Font",
+  "explorer.confirmDelete": false,
+  "editor.wordWrap": "on",
+  "notebook.output.wordWrap": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": ["cloudinary", "dtos", "Roshdy", "tailwindcss"],
+  "git.autofetch": true,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+
+  "ayat.repeatedEveryMinute": 180,
+  "hediet.vscode-drawio.resizeImages": null,
+  "explorer.confirmPasteNative": false,
+
+  "workbench.colorCustomizations": {
+    "editor.background": "#0b0b0b",
+    "sideBar.background": "#0e0d0d",
+    "panel.background": "#060606",
+
+    "terminal.background": "#080808",
+    "editorLineNumber.foreground": "#555555",
+    "editorLineNumber.activeForeground": "#00ff73",
+    "editorGutter.background": "#0e0e0e",
+
+    "activityBar.background": "#121111",
+    "activityBar.foreground": "#00ff73",
+    "activityBar.inactiveForeground": "#7a7a7a",
+
+    "statusBar.background": "#101010",
+    "tab.inactiveBackground": "#1b1b1b",
+    "tab.activeBorder": "#00ff73",
+    "editorGroupHeader.tabsBackground": "#141414"
+  },
+  "breadcrumbs.icons": false,
+  "material-icon-theme.activeIconPack": "nest",
+  "tabnine.experimentalAutoImports": true
+}
